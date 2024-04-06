@@ -9,23 +9,13 @@ and A* Search, demonstrating their applications and effectiveness in pathfinding
 
 ## Getting Started
 
-To experience the Maze Solver, please follow these steps:
 
----
-
-### Prerequisites
+To run this application, follow these steps:
 
 Ensure you have Java and G++ installed on your system to compile and run the application.
 
----
-
-### Project Launch
 
 1. Clone the repository to your local machine:
-
-[Hash Sign(#)][Space]Any Header/subtitle or any text you want starting with hash
-[Tab][Tab]Your text
-[#][ ] kasjdfkljakldsjflkj [    ]   [    ]
 
 ``` 
 git clone "https://github.com/AlambekG/mazeSolver.git" 
@@ -46,9 +36,6 @@ java -Xss4m -jar MazeGame.jar
 
 After launching, you will be presented with a graphical interface showcasing the maze and options to solve it.
 
----
-
-Enjoy solving mazes with our Maze Solver application, and explore the fascinating world of graph search algorithms!
 
 <div style="display: flex; justify-content: space-between;">
     <img src="/Astar.png" alt="Astar approach" width="250">
